@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pkl
+dataset.csv
+.env
+.vscode/
+.idea/
+
+# Generated artifacts
+*.png
+prediction_results.csv
+
+# OS files
+.DS_Store
+Thumbs.db
